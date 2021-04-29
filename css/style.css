@@ -1298,7 +1298,12 @@ img {
 }
 
 
-
+.price{
+	font-weight: bolder;
+	font-style: italic;
+	font-size: 20px !important;	
+	color: blue !important;
+}
 
 /*-- contact --*/  
 .contact-form.wthree {
