@@ -1305,6 +1305,11 @@ img {
 	color: blue !important;
 }
 
+.we_accept{
+	width: auto;
+	height: 45px;
+}
+
 /*-- contact --*/  
 .contact-form.wthree {
     width: 80%;
@@ -1315,7 +1320,7 @@ img {
     box-shadow: 3px 3px 13px rgba(0, 0, 0, 0.5);
 }
 .contact input[type="text"], .contact input[type="email"], .contact textarea  {
-    width: 100%;
+    width: 90%;
     color: #FFF;
     background: none;
     outline: none;
