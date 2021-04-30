@@ -22,8 +22,8 @@ if (isset($_POST['send'])) {
             $errors[] = 'Subject is required';
         }
 
-        if (strlen($subject) > 150) {
-            $errors[] = 'Subject cannot be more than 150 characters';
+        if (strlen($subject) > 50) {
+            $errors[] = 'Subject cannot be more than 50 characters';
         }
 
         if (empty($email)) {

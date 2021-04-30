@@ -1,53 +1,19 @@
-<!doctype html>
-<!-- Website created by Gee Designs -->
-<html>
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Steven Automobile Sales | Affordable and Reliable Auto-trader</title>
-	<link rel="stylesheet" href="css/style.css" type="text/css">
-	<link rel="stylesheet" type="text/css" href="css/mobile.css">
-	<script src="js/mobile.js" type="text/javascript"></script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style type="text/css">
-<!--
-body,td,th {
-	color: #FFF;
-	font-family: Comic Sans MS, cursive;
-	font-size: 18px;
-	font-weight: bold;
-}
-body {
-	background-color: #FFF;
-}
--->
-</style></head>
+<?php require_once 'includes/header.php'; ?>
+
 <body>
 	<div id="page">
-		<div id="header">
-			<div>
-				<a href="index.html" class="logo" style="margin-right: 3cm;"><img src="images/logo1.png" alt=""></a>
-				<ul id="navigation">
-					<li class="selected">
-						<a href="index.html">Home</a>
-					</li>
-					<li class="selected">
-						<a href="products.html">Browse Products</a>
-					</li>
-					<li class="selected">
-						<a href="contact.html">Contact Us</a>
-					</li>
-				</ul>
-			</div>
+		<!-- Main Navigation -->
+		<?php include_once 'includes/navigation.php'; ?>
+
+		<div>
 		</div>
-        <div>
-				</div>
 		<div id="body" class="home">
-			
+
 			<div class="body">
 				<div>
 					<h1>ABOUT THIS SITE</h1>
 					<p>At Steven Automobile Sales, We have a database of over 300 registered car parts sellers across the world. Save more on your car parts, we help you get your car parts at the lowest price.</p>
-					<p>You can only make order through phone call and e-mail for now.  All credit cards are accepted</p>
+					<p>You can only make order through phone call and e-mail for now. All credit cards are accepted</p>
 				</div>
 			</div>
 			<div class="footer">
@@ -140,7 +106,7 @@ body {
 								<li>
 									<span style="color: black;">(641) 200-0633 OR</span>
 									<span style="color: black;"><p>href="mailto:sales@stevenautomobilesales.com">sales@stevenautomobilesales.com</p></span>
-                                    <a href="products2.html" class="more">Next</a>
+                                    <a href="products2.php" class="more">Next</a>
 								</li>
 							</ul>
 						</li>
@@ -148,34 +114,5 @@ body {
 				</div>
 			</div>
 		</div>
-		<div id="footer">
-			<div class="connect">
-				<div>
-					<h1>FOLLOW OUR  MISSIONS ON</h1>
-					<div>
-						<a href="https://facebook.com/stevenautomobilesales" target="_blank" class="facebook">facebook</a>
-						<a href="https://twitter.com/stevenautomobilesales" target="_blank" class="twitter">twitter</a>
-						<a href="https://youtube.com/stevenautomobilesales" target="_blank" class="youtube">youtube</a>
-						<img src="images/we-accept.png" class="we_accept" alt="" />
-					</div>
-				</div>
-			</div>
-			<div class="footnote">
-				<div>
-					<p>&copy; STEVEN AUTOMOBILE SALES 2021 | ALL RIGHTS RESERVED</p>
-				</div>
-			</div>
-		</div>
-		<!-- (c) 2005, 2021. Authorize.Net is a registered trademark of CyberSource Corporation -->
-    	<div class="AuthorizeNetSeal">
-		<script type="text/javascript" language="javascript">
-			var ANS_customer_id = "85ad9419-9076-430d-9564-27f2dca0cb41";
-		</script>
-		<script
-			type="text/javascript"
-			language="javascript"
-			src="//verify.authorize.net:443/anetseal/seal.js"
-		></script>
-	</div>
-</body>
-</html>
+		<!--- Footer information --->
+		<?php require_once 'includes/footer.php'; ?>

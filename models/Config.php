@@ -19,7 +19,7 @@ class Config
 	const SYSTEM_EMAIL_ID           = 'sales@stevenautomobilesales.com';
 	const SYSTEM_EMAIL_PASSWORD     = 'Peo?ow7H(*#)';
 	const SYSTEM_EMAIL_HOST         = 'stevenautomobilesales.com';
-	const SYSTEM_EMAIL_SENDER_NAME  = 'Steven Automobile Sales';
+	const SYSTEM_EMAIL_SENDER_NAME  = 'Stevens Automobile';
 	const SYSTEM_PORT_NO            = 587;
 	const APP_ADDRESS               = 'https://stevenautomobilesales.com';
 
