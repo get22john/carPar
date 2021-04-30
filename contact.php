@@ -59,31 +59,37 @@
 				</div>
 			</div>
 			<div class="footer">
-				<div>
-					<ul>
-						<li>
-							<h1>TOP PRODUCT</h1>
-							<img src="images/hosting_project4.jpg" alt=""><span></span>
-						</li>
-						<li>
-							<h1>DETAILS</h1>
-							<ul>
-								<li>
-									<span>PreviousNext Short EngineShort Engine Short Engine 1934 Rolls Royce 20/25 hp
-										Short engine for sale The engine is reputed to have been removed from the
-										original car in 1964 by Adams and Oliver. $2,150</span>
-
-								</li>
-								<li>
-									<h1>Please contact :</h1>
-									<span>(641) 200-0633 OR</span>
-									<span><a href="mailto:sales@stevenautomobilesales.com">sales@stevenautomobilesales.com</a></span>
-								</li>
-							</ul>
-						</li>
-					</ul>
-				</div>
-			</div>
+          <div>
+            <ul>
+              <li>
+                <h1>OUR PRODUCTS</h1>
+                <img src="images/hosting_project4.jpg" alt="" /><span></span>
+              </li>
+              <li>
+                <h1>DETAILS</h1>
+                <ul>
+                  <li>
+                    <span
+                      >PreviousNext Short EngineShort Engine Short Engine 1934
+                      Rolls Royce 20/25 hp Short engine for sale The engine is
+                      reputed to have been removed from the original car in 1964
+                      by Adams and Oliver. </span
+                    ><span class="price">$2,150</span>
+                  </li>
+                  <li>
+                    <span style="color: black">(641) 200-0633 OR</span>
+                    <span style="color: black"
+                      ><p>
+                        href="mailto:sales@stevenautomobilesales.com">sales@stevenautomobilesales.com
+                      </p></span
+                    >
+                    <a href="products.php" class="more">All Products</a>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
 		</div>
 		<div id="footer">
 			<div class="connect">
@@ -98,7 +104,7 @@
 			</div>
 			<div class="footnote">
 				<div>
-					<p>&copy; STEVEN AUTOMOBILE 2021 | ALL RIGHTS RESERVED</p>
+					<p>&copy; STEVEN AUTOMOBILE SALES 2021 | ALL RIGHTS RESERVED</p>
 				</div>
 			</div>
 		</div>

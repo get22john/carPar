@@ -96,7 +96,6 @@
 								<li>
 									<span>Citroen B12 empty steering house original  Citroen B12 empty steering house original: </span>
                                     <span class="price">$355</span>
-									
 								</li>
 								<li>
 									<span style="color: black;">(641) 200-0633 OR</span>
