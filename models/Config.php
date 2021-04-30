@@ -6,10 +6,10 @@
  * 
  * @category  PHP_WebApplication_Software
  * @package   User_Management_System
- * @author    SolveStation <hello@solvestation.com>
- * @copyright 2020 Napps Kogi
- * @license   SSLIC: https://solvestation.com
- * @link      https://solvestation.com
+ * @author    Steven Automobile Sales <sales@stevenautomobilesales.com>
+ * @copyright 2021 Steven Automobile Sales
+ * @license   SSLIC: https://stevenautomobilesales.com
+ * @link      https://stevenautomobilesales.com
  */
 
 class Config
@@ -17,9 +17,9 @@ class Config
 	const SYSTEM_TIMEZONE           = 'America/Kentucky/Monticello';
 	const EMAIL_SMTP_METHOD         = 'yes';
 	const SYSTEM_EMAIL_ID           = 'sales@stevenautomobilesales.com';
-	const SYSTEM_EMAIL_PASSWORD     = 'Peo?ow7H(*#)';
+	const SYSTEM_EMAIL_PASSWORD     = 'DDQOW-M]q4Td';
 	const SYSTEM_EMAIL_HOST         = 'stevenautomobilesales.com';
-	const SYSTEM_EMAIL_SENDER_NAME  = 'Stevens Automobile';
+	const SYSTEM_EMAIL_SENDER_NAME  = 'Stevens Automobile Sales';
 	const SYSTEM_PORT_NO            = 587;
 	const APP_ADDRESS               = 'https://stevenautomobilesales.com';
 
