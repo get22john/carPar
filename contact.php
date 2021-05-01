@@ -78,7 +78,7 @@
                   </li>
                   <li>
                     
-                    <a href="products.php" class="more">All Products</a>
+                    <!-- <a href="products.php" class="more">All Products</a> -->
                   </li>
                 </ul>
               </li>
