@@ -41,10 +41,10 @@
 										<input type="text" name="name" placeholder="Name" id="name">
 									</div>
 									<div class="">
-										<input class="text" type="text" name="subject" placeholder="Subject" id="subject">
+										<input class="email" type="email" name="email" placeholder="Email" id="email">
 									</div>
 									<div class="">
-										<input class="email" type="email" name="email" placeholder="Email" id="email">
+										<input class="text" type="text" name="subject" placeholder="Subject" id="subject">
 									</div>
 									<div class="">
 										<textarea placeholder="Message" name="message" id="message"></textarea>
@@ -77,12 +77,7 @@
                     ><span class="price">$2,150</span>
                   </li>
                   <li>
-                    <span style="color: black">(641) 200-0633 OR</span>
-                    <span style="color: black"
-                      ><p>
-                        href="mailto:sales@stevenautomobilesales.com">sales@stevenautomobilesales.com
-                      </p></span
-                    >
+                    
                     <a href="products.php" class="more">All Products</a>
                   </li>
                 </ul>
